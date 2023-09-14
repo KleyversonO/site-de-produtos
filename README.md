@@ -12,4 +12,4 @@ O site por mais que tenha seu principal foco nos itens a venda, tambem tem outra
 HTML 5. CSS 3
 
 ## Referência
-* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme)
+* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
