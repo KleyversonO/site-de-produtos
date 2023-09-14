@@ -1,5 +1,5 @@
 # Projeto-site-de-produtos
-Site de produtos desemvolvido na aula
+Site de produtos desenvolvido na aula
 
 ## Funções
 O site foi desenvolvido com o intuito de treinar a como desevolver um "_css" de um site. Contem algumas informações sobre algumas sobremesas que envolvem doce de leite, tendo pesquisa de preços reais. Também contem algumas informações e receitas dentro do site sobre os doces citados.
