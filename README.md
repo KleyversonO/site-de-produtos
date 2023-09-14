@@ -2,7 +2,7 @@
 Site de produtos desemvolvido na aula
 
 ## Funções
-O site foi desemvolvido com o intuito de treinar a como desevolver um "_css" de um site. Contem algumas informações sobre algumas sobremesas que envolvem doce de leite, tendo pesquisa de preços reais. Também contem algumas informações e receitas dentro do site sobre os doces citados.
+O site foi desenvolvido com o intuito de treinar a como desevolver um "_css" de um site. Contem algumas informações sobre algumas sobremesas que envolvem doce de leite, tendo pesquisa de preços reais. Também contem algumas informações e receitas dentro do site sobre os doces citados.
 
 ## Sobre o site
 O site por mais que tenha seu principal foco nos itens a venda, tambem tem outras paginas que não foram desemvolvidas, como a area de assitência, a area sobre a intenção do site, e pagina principal do site. Mas a unica realmente desemvolvida é a de venda
