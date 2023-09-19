@@ -1,4 +1,4 @@
-# Projeto-site-de-produtos
+# Site sobre doce de leite
 Site de produtos desenvolvido na aula
 
 ## Descrição 
