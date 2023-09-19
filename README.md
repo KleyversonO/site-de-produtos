@@ -20,3 +20,4 @@ O site por mais que tenha seu principal foco nos itens a venda, tambem tem outra
 
 ## Referência
 * [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
+* [GitHub Gist](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Dicas de como deixar um README melhor
