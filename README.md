@@ -1,6 +1,9 @@
 # Projeto-site-de-produtos
 Site de produtos desenvolvido na aula
 
+## Descrição 
+Site de venda, feito no intuito de simular um site de venda de sobremessas que contenham doce de leite. O site tem 6 doces, com descrições. E uma receita no final do site
+
 ## Funções
 O site foi desenvolvido com o intuito de treinar a como desevolver um "_css" de um site. Contem algumas informações sobre algumas sobremesas que envolvem doce de leite, tendo pesquisa de preços reais. Também contem algumas informações e receitas dentro do site sobre os doces citados.
 
